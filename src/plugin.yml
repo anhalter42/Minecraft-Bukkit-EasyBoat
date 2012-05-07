@@ -1,0 +1,4 @@
+## YAML Template.
+name: EasyBoat
+main: com.mahn42.anhalter42.easyboat.EasyBoat
+version: 0.1
