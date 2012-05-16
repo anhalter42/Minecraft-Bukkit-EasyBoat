@@ -1,0 +1,9 @@
+EasyBoat
+========
+
+Ziel
+----
+
+Boote können durch Kollision nicht mehr zerstört werden.
+Werden sie durch den Spieler zerstört, so entsteht das Boot selbst als Inventaritem.
+Es kann dann leicht wieder aufgesammelt werden.
